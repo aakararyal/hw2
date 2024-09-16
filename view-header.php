@@ -25,7 +25,7 @@
       <li class="nav-item">
           <a class="nav-link" href="post-result.php">Post result</a>
         </li> <li class="nav-item">
-          <a class="nav-link" href="get.php">Post</a>
+          <a class="nav-link" href="get.php">Get</a>
         </li> <li class="nav-item">
           <a class="nav-link" href="get-result.php">Get result</a>
         </li>
